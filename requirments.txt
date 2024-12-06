@@ -1,0 +1,2 @@
+matplotlib==3.9.3
+telebot==0.0.5
